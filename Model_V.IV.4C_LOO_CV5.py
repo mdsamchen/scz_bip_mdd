@@ -1,7 +1,7 @@
 # Model V.IV.4C
-# This script is used to classify SCZ with PRSs from comorbid traits only.
-# This script uses a LOOCV procedure. The matrices reported are from the 
-# left-out part.
+# This script is used to classify CTRL, SCZ, BIP, and MDD with PRSs from comorbid traits only.
+# This script uses a LOOCV procedure. The matrices reported are from the lfet-out part.
+# 
 
 import pandas as pd
 import numpy as np
