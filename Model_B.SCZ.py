@@ -1,6 +1,7 @@
-# model B.SCZ
-# compare mdoels with only PRS of SCZ, all PRSs, and comorbid PRSs only
-# using logistic, and elastic regression models
+# model B.I.SCZ, B.II.SCZ and B.III.SCZ
+# compare mdoels with only PRS of SCZ (B.I.SCZ), all PRSs (B.II.SCZ), and comorbid PRSs only (B.III.SCZ)
+# using logistic, and elastic regression models and LOOCV procedures.
+# Performanace matrices are for the left out portion of the samples.
 
 # import required libraries
 import numpy as np
